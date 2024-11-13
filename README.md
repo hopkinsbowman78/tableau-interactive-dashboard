@@ -6,18 +6,18 @@ Since its launch in 2013, the Citi Bike program has built a comprehensive system
 
 The Tableau dashboard created here is designed to support a streamlined reporting process, offering a set of visualizations to deliver data insights to city officials.
 
-Data Used
+## Data Used
 I used data from the files 202410-citibike-tripdata_1.csv and 202410-citibike-tripdata_5.csv, both containing data from October 2024. Due to instructions indicating that Tableau might struggle with larger datasets, I opted to work with these two files instead of attempting to analyze data for the entire year. This approach allowed for more efficient processing and focused insights for the month of October.
 
-Tableau Public Link
+## Tableau Public Link
 The following is the link on Tableau Public to access my visualizations:
 
 CLICK HERE!
 
-Key Insights
+## Key Insights
 Using Tableau, I visualized the top 10 most popular starting and ending locations for riders. For October, the data revealed that classic bikes were more widely used than electric bikes, with October 20th being the busiest day for both bike types. The analysis also showed that members consistently used the bikes more frequently than casual riders. This project was an excellent learning experience, allowing me to transform data into meaningful visualizations and gain valuable insights.
 
-Resources Used
+## Resources Used
 Class videos and notes
 ChatGPT
 Peer collaboration
