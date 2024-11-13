@@ -12,7 +12,7 @@ I used data from the files 202410-citibike-tripdata_1.csv and 202410-citibike-tr
 ## Tableau Public Link
 The following is the link on Tableau Public to access my visualizations:
 
-[[CLICK HERE!](https://public.tableau.com/views/NewCitiBikeViz/StartStations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/Citibike_Viz/StartStations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[[CLICK HERE!]([https://public.tableau.com/views/Citibike_Viz/StartStations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/Citibike_Viz/StartStations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
 Using Tableau, I visualized the top 10 most popular starting and ending locations for riders. For October, the data revealed that classic bikes were more widely used than electric bikes, with October 20th being the busiest day for both bike types. The analysis also showed that members consistently used the bikes more frequently than casual riders. This project was an excellent learning experience, allowing me to transform data into meaningful visualizations and gain valuable insights.
