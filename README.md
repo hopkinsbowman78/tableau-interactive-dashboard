@@ -1,4 +1,4 @@
-# tableau_challenge
+# tableau-interactive-dashboard
 
 In this assignment, I developed visualizations, dashboards, and a narrative using Tableau, focusing on the New York Citi Bike Program—the largest bike-sharing initiative in the United States.
 
